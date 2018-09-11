@@ -1,0 +1,29 @@
+{
+"products" : [
+{"id":1,"name":"Alouatta seniculus","category":"Turquoise"},
+{"id":2,"name":"Alcelaphus buselaphus cokii","category":"Fuscia"},
+{"id":3,"name":"Cynictis penicillata","category":"Fuscia"},
+{"id":4,"name":"Phasianus colchicus","category":"Turquoise"},
+{"id":5,"name":"Macropus parryi","category":"Aquamarine"},
+{"id":6,"name":"Alopex lagopus","category":"Fuscia"},
+{"id":7,"name":"Macropus agilis","category":"Pink"},
+{"id":8,"name":"Erinaceus frontalis","category":"Goldenrod"},
+{"id":9,"name":"Orcinus orca","category":"Red"},
+{"id":10,"name":"Eudyptula minor","category":"Turquoise"},
+{"id":11,"name":"Vulpes vulpes","category":"Blue"},
+{"id":12,"name":"Sula nebouxii","category":"Turquoise"},
+{"id":13,"name":"Eolophus roseicapillus","category":"Blue"},
+{"id":14,"name":"Bubalus arnee","category":"Mauv"},
+{"id":15,"name":"Ciconia ciconia","category":"Khaki"},
+{"id":16,"name":"Ploceus rubiginosus","category":"Turquoise"},
+{"id":17,"name":"Equus burchelli","category":"Red"},
+{"id":18,"name":"Cynictis penicillata","category":"Purple"},
+{"id":19,"name":"Laniarius ferrugineus","category":"Purple"},
+{"id":20,"name":"Loris tardigratus","category":"Puce"},
+{"id":21,"name":"Larus novaehollandiae","category":"Crimson"},
+{"id":22,"name":"Phalacrocorax brasilianus","category":"Fuscia"},
+{"id":23,"name":"Psittacula krameri","category":"Indigo"},
+{"id":24,"name":"Pteropus rufus","category":"Crimson"},
+{"id":25,"name":"Loris tardigratus","category":"Pink"}
+]
+}
